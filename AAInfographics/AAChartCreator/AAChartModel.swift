@@ -484,25 +484,25 @@ public class AAChartModel: AAObject {
     
     
 
-    @available(*, unavailable, message: "please use titleStyle instead of it")
+//    @available(*, unavailable, message: "please use titleStyle instead of it")
     public var titleFontColor: String?      //The chart title font color
-    @available(*, unavailable, message: "please use titleStyle instead of it")
+//    @available(*, unavailable, message: "please use titleStyle instead of it")
     public var titleFontSize: Float?        //The chart title font size
-    @available(*, unavailable, message: "please use titleStyle instead of it")
+//    @available(*, unavailable, message: "please use titleStyle instead of it")
     public var titleFontWeight: AAChartFontWeightType? //The chart font weight
 
-    @available(*, unavailable, message: "please use subtitleStyle instead of it")
+//    @available(*, unavailable, message: "please use subtitleStyle instead of it")
     public var subtitleFontColor: String?   //The chart subtitle font color
-    @available(*, unavailable, message: "please use subtitleStyle instead of it")
+//    @available(*, unavailable, message: "please use subtitleStyle instead of it")
     public var subtitleFontSize: Float?     //The chart subtitle font size
-    @available(*, unavailable, message: "please use subtitleStyle instead of it")
+//    @available(*, unavailable, message: "please use subtitleStyle instead of it")
     public var subtitleFontWeight: AAChartFontWeightType?   //The chart subtitle font weight
 
-    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
+//    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
     public var dataLabelsFontColor: String? //The data labels font color
-    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
+//    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
     public var dataLabelsFontSize: Float?   //The data labels font size
-    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
+//    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
     public var dataLabelsFontWeight: AAChartFontWeightType?//The data labels font weight
     
     
